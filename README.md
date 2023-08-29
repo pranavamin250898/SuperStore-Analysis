@@ -10,7 +10,9 @@
 
 
 
-![image](https://github.com/pranavamin250898/SuperStore-Analysis/assets/40302495/2181e9a4-de79-4ffc-ba01-b9f7290b0357)
+
+![image](https://github.com/pranavamin250898/SuperStore-Analysis/assets/40302495/52b49f6a-57a3-4e66-a09d-8c8194c3dc68)
+
 
 
 
@@ -18,7 +20,8 @@
 
 
 
-![image](https://github.com/pranavamin250898/SuperStore-Analysis/assets/40302495/bd156be0-e7b0-4c5f-bd80-8dfb19609ba9)
+![image](https://github.com/pranavamin250898/SuperStore-Analysis/assets/40302495/82049d81-b8bf-4b2e-8c54-f23e50396c37)
+
 
 
 
@@ -26,5 +29,16 @@
 
 
 
-![image](https://github.com/pranavamin250898/SuperStore-Analysis/assets/40302495/580dde86-5323-4fcc-8391-5a467df18b0a)
+
+![image](https://github.com/pranavamin250898/SuperStore-Analysis/assets/40302495/9dd43777-e908-41f0-b04d-66f03a4f3f34)
+
+
+
+
+## Dashboard 5:
+
+
+
+
+![image](https://github.com/pranavamin250898/SuperStore-Analysis/assets/40302495/eacb5348-d8e5-4ab4-9b6a-b7534e734257)
 
