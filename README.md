@@ -2,7 +2,8 @@
 
 
 
-![image](https://github.com/pranavamin250898/SuperStore-Analysis/assets/40302495/baf5cbab-c2cd-43f0-8d0a-06de631d14fc)
+![image](https://github.com/pranavamin250898/SuperStore-Analysis/assets/40302495/4abb3f34-036e-4862-89e3-c1df938c256e)
+
 
 
 ## Dashboard 2:
